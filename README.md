@@ -16,3 +16,5 @@ https://kotlinlang.org/
 https://kotlinlang.org/docs/reference/
 
 https://developer.android.com/kotlin/
+
+Safe Calls (?.)  Elvis Operator (?:)
