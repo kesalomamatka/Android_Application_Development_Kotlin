@@ -8,7 +8,7 @@ The course contains lectures, exercises and research assignment.
 ## Notice
 This is a repository for Android Application Development online course hold by Jamk
 
-###Kotlin Koans--for exercise
+### Kotlin Koans--for exercise
 https://play.kotlinlang.org/koans/overview
 
 ## Issue01 - Exercise : Learn Kotlin programming language
