@@ -26,3 +26,4 @@ https://medium.com/@agrawalsuneet/safe-calls-vs-null-checks-in-kotlin-f7c56623ab
   
 ## Issue02: Create a first Android application 
   if didnt connect or offline, adb tcpip 5555 https://stackoverflow.com/questions/3152681/android-emulator-5554-offline
+Orientation: portrait or landscape mode   -> layout-> design -> creat landscape variation
