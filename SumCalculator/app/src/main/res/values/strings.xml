@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="num1">Number 1</string>
+    <string name="num2">Number 2</string>
+    <string name="info">This is an application to calculate the sum of two numbers</string>
+    <string name="result">Result</string>
+
+</resources>
