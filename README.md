@@ -36,3 +36,6 @@ https://developer.android.com/guide/topics/ui/
 https://developer.android.com/studio/write/layout-editor
 https://developer.android.com/guide/components/activities/
 https://developer.android.com/training/constraint-layout/index.html
+
+Obtaining The API Keys -> https://api.nasa.gov/index.html#about
+https://apod.nasa.gov/apod/astropix.html
