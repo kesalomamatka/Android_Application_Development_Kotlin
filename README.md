@@ -29,3 +29,10 @@ https://medium.com/@agrawalsuneet/safe-calls-vs-null-checks-in-kotlin-f7c56623ab
 Orientation: portrait or landscape mode   -> layout-> design -> creat landscape variation
 
 https://developer.android.com/studio/command-line/adb#wireless
+
+## Issue06 - Exercise : Building an adaptive UI
+https://developer.android.com/guide/topics/ui/declaring-layout  
+https://developer.android.com/guide/topics/ui/  
+https://developer.android.com/studio/write/layout-editor
+https://developer.android.com/guide/components/activities/
+https://developer.android.com/training/constraint-layout/index.html
