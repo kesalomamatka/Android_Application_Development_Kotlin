@@ -8,6 +8,8 @@ The course contains lectures, exercises and research assignment.
 ## Notice
 This is a repository for Android Application Development online course hold by Jamk
 
+https://developer.android.com/studio/command-line/adb
+
 ### Kotlin Koans--for exercise
 https://play.kotlinlang.org/koans/overview
 
