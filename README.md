@@ -19,7 +19,7 @@ This exercise teaches you the basics of the Kotlin programming language. Kotlin 
 https://kotlinlang.org/
 
 https://kotlinlang.org/docs/reference/
-
+ 
 https://developer.android.com/kotlin/
 
 Safe Calls (?.) vs Elvis Operator (?:)
