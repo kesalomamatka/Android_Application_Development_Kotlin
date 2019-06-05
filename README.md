@@ -5,7 +5,7 @@ The student understands the basics of the mobile application programming in a An
 The student can design, implement and publish mobile applications to the Android devices.
 The course contains lectures, exercises and research assignment. 
 
-## Notice
+## Notice 
 This is a repository for Android Application Development online course hold by Jamk
 
 https://developer.android.com/studio/command-line/adb
