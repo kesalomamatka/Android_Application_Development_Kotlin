@@ -10,7 +10,7 @@ This is a repository for Android Application Development online course hold by J
 
 https://developer.android.com/studio/command-line/adb
 
-### Kotlin Koans--for exercise
+### Kotlin Koans--for exercise 
 https://play.kotlinlang.org/koans/overview
  
 ## Issue01 - Exercise : Learn Kotlin programming language 
