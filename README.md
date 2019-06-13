@@ -1,5 +1,5 @@
 # Android_Application_Development_Kotlin
-
+  
 ## Course description
 The student understands the basics of the mobile application programming in a Android development environment.
 The student can design, implement and publish mobile applications to the Android devices.
