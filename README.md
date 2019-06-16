@@ -46,5 +46,5 @@ guide -> https://www.raywenderlich.com/1560485-android-recyclerview-tutorial-wit
 https://www.raywenderlich.com/179-adaptive-ui-tutorial-for-android-with-kotlin 
 
 
-
+ 
  
