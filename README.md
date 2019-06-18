@@ -22,7 +22,7 @@ https://kotlinlang.org/
 https://kotlinlang.org/docs/reference/ 
  
 https://developer.android.com/kotlin/
-
+ 
 Safe Calls (?.) vs Elvis Operator (?:)
   
 https://medium.com/@agrawalsuneet/safe-calls-vs-null-checks-in-kotlin-f7c56623ab30  
