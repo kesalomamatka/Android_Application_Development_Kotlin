@@ -6,7 +6,7 @@ The student can design, implement and publish mobile applications to the Android
 The course contains lectures, exercises and research assignment. 
   
 ## Notice 
-
+ 
 This is a repository for Android Application Development online course hold by Jamk
 
 https://developer.android.com/studio/command-line/adb
