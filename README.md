@@ -18,7 +18,7 @@ https://play.kotlinlang.org/koans/overview
 This exercise teaches you the basics of the Kotlin programming language. Kotlin is a quite a new programming language build by JetBrains. Kotlin can be used in Android Studio 3.0 and later projects. Kotlin is object oriented language and it is statically typed. Kotlin adds a lot of nice features, a much more cleaner and easier syntaxt (than Java) and ideas of functional programming.  
    
 https://kotlinlang.org/ 
-   
+    
 https://kotlinlang.org/docs/reference/ 
   
 https://developer.android.com/kotlin/
